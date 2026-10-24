@@ -35,6 +35,4 @@ fn main() {
 
     let letter:char = 'A';
     let flag:bool = true;
-
-
 }
